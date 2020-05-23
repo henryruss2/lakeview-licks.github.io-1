@@ -1,0 +1,11 @@
+ .bottom {
+   background-color: blue;
+  }
+  .heading1 {
+    font-family: lobster,cornerstone,futura,boulder,arial,cursive;
+  }
+  #bar {
+    position: relative;
+    left: 200px;
+    top: 10px;
+  }
