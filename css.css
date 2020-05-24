@@ -1,15 +1,15 @@
- .bottom {
-   background-color: blue;
+ #bottom {
+   background: blue;
   }
-  .heading1 {
+  #heading1 {
     font-family: lobster,cornerstone,futura,boulder,arial,cursive;
   }
-  #bar {
+  .bar {
     position: relative;
     left: 200px;
     top: 10px;
   }
-#about {
+.about {
 font-family: lobster,cornerstone,futura,boulder,helvetica,arial,cursive;
  
 }
