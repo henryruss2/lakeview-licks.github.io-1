@@ -17,6 +17,6 @@ p {
 #all {
   color: rgb(76,188,255)
 }
- #bottom {
+ .bottom {
    background: rgb(0,200,50);
   }
