@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en/US">
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+https://lakeview-licks.github.io/almond-rollis.html
+https://lakeview-licks.github.io/people-and-pets-peanut-bites.html
+https://lakeview-licks.github.io/order-locally.html
+https://lakeview-licks.github.io/contact-us.html
+https://lakeview-licks.github.io/about.html
+https://lakeview-licks.github.io/
+</body>
+</html>
