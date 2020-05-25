@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<head>
-<meta charset="utf-8">
-</head>
-<body>
+lakeview-licks.github.io/
 https://lakeview-licks.github.io/almond-rollis.html
 https://lakeview-licks.github.io/people-and-pets-peanut-bites.html
 https://lakeview-licks.github.io/order-locally.html
 https://lakeview-licks.github.io/contact-us.html
 https://lakeview-licks.github.io/about.html
 https://lakeview-licks.github.io/
-</body>
+
 
