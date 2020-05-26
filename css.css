@@ -1,22 +1,16 @@
 
-  #heading1 {
-    font-family: lobster,cornerstone,futura,boulder,arial,cursive;
-  }
   .bar {
     position: relative;
     left: 200px;
     top: 10px;
   }
-.about {
-font-family: lobster,cornerstone,futura,boulder,helvetica,arial,cursive;
- 
-}
-p {
- font-family: roboto;
-}
+
 .all {
   color: rgb(76,188,255)
 }
  .bottom {
    background: rgb(0,200,50);
   }
+* {
+font-family: futura,roboto;  
+}
